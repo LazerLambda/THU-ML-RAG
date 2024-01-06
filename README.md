@@ -10,7 +10,7 @@ This app is based on the LangChain framework, which provides a wrapper for the F
 - Run: pip install -r requirements.txt
 
 ## Run App
-Run `python src/main.py`, visit http://127.0.0.1:7860 and ask a question in the online interface.
+Run `python src/main.py`, visit http://127.0.0.1:7860 and ask a question on the online interface.
 
 ## Limitations
  - Without appropriate hardware acceleration, the app performs slowly. A GPU is recommended.
