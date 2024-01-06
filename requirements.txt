@@ -1,0 +1,6 @@
+sentence_transformers
+transformers
+datasets
+torch
+langchain
+pandas
