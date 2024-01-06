@@ -3,4 +3,8 @@ transformers
 datasets
 torch
 langchain
+langchain-community
 pandas
+hf-hub-ctranslate2
+gradio
+faiss-cpu

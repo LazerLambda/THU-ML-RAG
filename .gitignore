@@ -1,1 +1,3 @@
 .venv/*
+data/
+faiss_doc_idx/
